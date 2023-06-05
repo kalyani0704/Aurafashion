@@ -1,0 +1,668 @@
+@import url('https://fonts.googleapis.com/css2?family=BhuTuka+Expanded+One&family=Michroma&family=Poiret+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=BhuTuka+Expanded+One&family=Michroma&family=Monoton&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=BhuTuka+Expanded+One&family=Flamenco&family=Michroma&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=BhuTuka+Expanded+One&family=Michroma&family=Sacramento&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=BhuTuka+Expanded+One&family=Cinzel:wght@400;500&family=Josefin+Slab:wght@300;500&display=swap');
+/* Michroma */
+@import url('https://fonts.googleapis.com/css2?family=BhuTuka+Expanded+One&family=Josefin+Slab:wght@300;500&family=Michroma&display=swap');
+/* Arvo */
+@import url('https://fonts.googleapis.com/css2?family=Arvo:wght@400;700&family=BhuTuka+Expanded+One&family=Cinzel&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.firstnav{
+    position: sticky;
+    top: 0;
+    z-index: 200;
+}
+body{
+   
+}
+.top{
+    text-align: center;
+    font-size: 15px;
+    padding: 6px;
+    font-family: Poiret One;
+    background: #403d43;
+    color: white;
+    font-weight: 300;
+}
+.secnav{
+     background: #B5838D;
+     padding: 10px;
+     
+}
+.logo{
+    font-size: 42px;
+    font-family: Monoton;
+    display: inline-block;
+    color: #071E22;
+    padding-left: 10px;
+    font-weight:600;
+}
+.log{
+    font-family: Sacramento; 
+    font-size: 33px;
+    padding-left: 20px;
+    font-weight: bold;
+}
+.nav{
+    padding-left:80px ;
+   
+}
+a{
+    margin: 0 30px;
+    text-decoration-line: none;
+    font-family: cinzel;
+   font-weight:500;
+   color: black;
+  
+   font-size: 17px;
+   text-transform: uppercase;
+}
+.holder{
+    padding:6px 50px;
+    font-family: Flamenco;
+    font-size: 17px;
+    border-radius: 10px;
+    border:none;
+    margin-left:70px;
+}
+.icon{
+  padding-left: 90px;
+}
+.con{
+    margin: 0 7px;
+    
+}
+.spann{
+    color:#B5838D;
+    font-family: Sacramento; 
+    font-size: 60px;
+    text-transform: capitalize;
+    letter-spacing: 5px;
+}
+.text{
+    padding-top: 30px;
+   font-size:22px;
+   font-family: Flamenco;
+   line-height: 40px; 
+   display: inline-block;
+   padding-left: 0px;
+   position: relative;
+   bottom: 70px;
+   left: 50px;
+}
+.title{
+    font-family: Sacramento; 
+    font-size: 4px;
+    text-transform: capitalize;
+    display: block;
+}
+.infoo{
+    margin-top: 100px;
+    margin-left: 100px; 
+    
+}
+.high{
+    font-weight:lighter;
+    text-decoration: underline;
+    font-family: cinzel;
+    font-size: 20px;
+    padding-left: 20px;
+    color:  #6D9197;
+    font-weight: 500;
+    cursor: pointer;
+}
+.light{
+    padding-left: 10px;
+    font-family: Flamenco;
+    font-size: 18px;
+    color:  #6D9197;
+    cursor: pointer;
+}
+.phone{
+    margin-left: 1100px;
+    cursor: pointer;
+}
+.highlight{
+    padding-top: 10px;
+    cursor: pointer;
+}
+.salehead,.cate,.categ,.shop{
+    font-family: Michroma ;
+    text-align: center;
+    margin-top: 60px;
+    font-weight: 500;
+    text-transform: uppercase;
+    font-size: 18px;
+    word-spacing: 9px;
+    margin-bottom: 30px;
+   
+    
+}
+.posterr{
+    border-radius: 90px 90px 0 0;
+}
+.variety{
+    padding-top: 40px;
+    padding-left: 210px;
+    margin:0 10px;
+ }
+ .img1,.img2,.img3{
+     margin: 0 30px;
+     border-radius:20px 20px;
+     box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+ }
+ 
+ .name{
+     display: inline-block;
+     font-family: Flamenco;
+     font-size: 20px;
+     font-weight:lighter;
+     text-transform: uppercase;  
+     margin:0 155px; 
+     margin-top:30px;
+ }
+ .hr{
+    margin:30px 200px;
+}
+.secban{
+ padding-left:300px;
+margin-top: 30px;
+}
+.images{
+    padding-left: 60px;
+    padding-top: 50px;
+}
+.image{
+    margin: 0 10px;
+    border-radius:0px;
+}
+.lab{
+    display: inline-block;
+    font-family: Flamenco;
+    font-weight: 100;
+    text-transform: capitalize;
+    font-size: 23px;
+    margin: 20px 20px ;
+    padding-left: 88px;
+    cursor: pointer;
+}
+.lab:hover{
+    text-decoration: underline;
+    text-decoration-color: #6D9197;
+   
+
+}
+.class{
+    padding-left: 100px;
+}
+
+.branding{
+    padding-left: 30px;
+    font-family: Flamenco;
+}
+.script{
+    line-height: 25px;
+    font-size: 18px;
+}
+.seller {
+    font-weight: 600 ;
+    color: #6D6875;
+    font-size: 13px;
+    text-transform: uppercase;
+    padding-bottom: 5px;
+    padding-left:50px;
+    margin-top: 10px;
+}
+.product{
+    position: relative;
+    top: 0;
+    right: 20px;
+    letter-spacing:0.1em;
+    text-transform: uppercase;
+    cursor: pointer;
+    margin-top: 20px;
+    font-family: Flamenco;
+}
+.color{
+    font-family: Flamenco;
+    font-weight: 300;
+    color: #454545;
+    font-size: 15px;
+    letter-spacing:0.1em;
+    text-transform: uppercase;
+    padding-bottom: 5px;
+    cursor: pointer;
+    margin-top: 10px;
+    display: block;
+}
+.drop,.off,.price{
+    font-family: Flamenco;
+    font-weight: 300;
+    color: #454545;
+    font-size: 15px;
+    letter-spacing:0.1em;
+    text-transform: uppercase;
+    padding-bottom: 5px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+.price{
+   text-decoration: line-through;
+}
+.seller{
+    margin-right: 10px;
+}
+.drop{
+    position: relative;
+    top: 0;
+    left: 10px;
+    font-size: 17px;
+    
+}
+.off{
+    position: relative;
+    top: 3px;
+    left: 20px;
+    font-size: 17px;
+}
+.size{
+    font-family: Flamenco;
+    font-weight: 300;
+    color: #454545;
+    font-size: 15px;
+    letter-spacing:0.1em;
+    text-transform: uppercase;
+    padding-bottom: 5px;
+    cursor: pointer;
+    margin-top: 10px;
+    display: block;
+    position: relative;
+    top: 3px;
+    left: 40px;
+}
+.sizee{
+    font-size: 14px;
+    letter-spacing:0.1em;
+    display: inline;
+    padding: 5px 5px;
+    cursor: pointer;
+    margin-top: 10px;
+    font-family: Flamenco;  
+    margin-left: 10px;
+    position: relative;
+    top: 3px;
+    right: 10px;
+}
+.sizee:hover{
+    background:  #6D6875;
+    color: white;
+}
+.btn {
+    font-size: 14px;
+    letter-spacing:0.1em;
+    text-transform: uppercase;
+    padding: 10px 30px;
+    cursor: pointer;
+    margin-top: 30px;
+    font-family: Flamenco;  
+    margin-left: 10px;
+    display: block;
+    background-color: #efe0e3;
+    border: 1px solid green;
+}
+.btn:hover{
+    background:  #6D6875;
+    color: white;
+}
+.mainn{
+    display: inline-block;
+    margin-top: 40px;
+   padding-left: 210px;
+   
+}
+.banner{
+    margin-top: 100px;
+    padding-left: 170px;
+}
+.arrival{
+    font-family: Flamenco;
+    text-transform: uppercase;
+    font-weight: 100;
+    color: #6D6875;
+    font-size: 70px;
+    margin-top: 150px;
+    padding-left: 300px;
+}
+.pink{
+    color: #B5838D;
+}
+.discover{
+    font-family: Flamenco;
+    text-transform: capitalize;
+    font-weight: 100;
+    color:  #6D6875;
+    font-size: 20px;
+    margin-top: 10px;
+    padding-left: 390px;
+    
+}
+.second-ban{
+    position: relative;
+    top: 50px;
+    left: 30px;
+}
+.third-ban{
+    position: relative;
+    top: 50px;
+    left: -10px;
+}
+.fourth-ban{
+    position: relative;
+    top: 0px;
+    left: -30px;
+}
+.the{
+    font-family: Flamenco;
+    text-transform: uppercase;
+    font-weight: 100;
+    color: #B5838D;
+    font-size: 60px;
+    margin-top: 150px;
+    padding-left: 190px;
+    line-height: 50px;
+}
+.info{
+    font-family: Flamenco;
+    font-size: 20px;
+    line-height: 25px;
+    word-spacing: 5px;
+    letter-spacing:3px ;
+    padding-left: 200px;
+    margin-top: 70px;
+}
+.baby{
+    margin-top: 80px;
+}
+.foot-line{
+    margin-top: 50px;
+}
+.foot-head{
+    font-family: Michroma ;
+    text-align: center;
+    margin-top: 60px;
+    font-weight: 500;
+    text-transform: uppercase;
+    font-size: 18px;
+    word-spacing: 9px;
+    margin-bottom: 30px;   
+}
+.privacyy{
+    font-family: Arvo;
+    text-transform: uppercase;
+    font-size: 30px;
+    text-align: center;
+    font-weight: 500;
+    margin-top: 40px;
+    letter-spacing: 1px;
+    word-spacing: 10px;
+    color:  #6D6875;
+}
+.policy{
+    font-family: Arvo;
+    color: #B5838D;
+}
+.background{
+    background: white;
+    padding: 60px 30px;
+    margin: 60px 190px;
+    min-width: 500px;
+    box-shadow: 1px 2px 2rem rgba(0, 0, 0, 0.2);
+}
+
+.pri-poli{
+    color: black;
+   
+}
+.update,
+.terms,
+.accept,
+.agreement,
+.sec-privacy,
+.log-in,
+.e-mail,
+.password{
+    font-family: Flamenco;
+    font-weight: 300;
+    font-size: 15px;
+    letter-spacing:0.1em;
+    text-transform: uppercase;
+    padding-bottom: 5px;
+    cursor: pointer;
+    margin-top: 10px;
+    display: block;
+}
+.update{
+    font-size:25px;
+}
+.terms{
+    font-size: 18px;
+    margin-top:20px;
+    word-spacing: 1px;
+}
+.accept{
+    font-size: 18px;
+    word-spacing: 1px;
+}
+.pri-btn{
+    padding: 10px 50px;
+    font-size: 18px;
+    margin-top: 20px;
+    cursor: pointer;
+    font-family: Flamenco;
+}
+.pri-btn:hover{
+    background:  #403d43;
+    color:white;
+}
+.agreement{
+    font-family: Flamenco;
+    line-height: 25px;
+    word-spacing: 5px;
+    letter-spacing:1px ;
+    text-transform: capitalize;
+    font-size: 20px;
+    margin-top: 20px;
+    text-transform: uppercase;
+}
+.sec-privacy{
+    text-align:justify;
+    font-size:16px;
+    line-height: 1.5rem;
+}
+.log-in{
+    margin-top: 90px;
+
+}
+.e-mail{
+  
+    font-size: 15px;
+    margin-top: 20px;
+}
+.g-mail{
+    padding: 8px 90px;
+    padding-left: 20px;
+    font-size: 18px;
+    margin-top: 10px;
+    font-family: Flamenco;
+}
+.g-mail:hover{
+    background:  #403d43;
+    color:white;
+}
+.password{
+    margin-top: 20px;  
+}
+.input:hover{
+    background:  #403d43;
+    color:white;
+}
+.input{
+    padding: 8px 40px;
+}
+.service{
+    font-size: 18px;
+    font-family: system-ui;
+    font-weight: 200;
+    background: rgb(233, 206, 138);
+    margin-top: 30px;
+    padding: 20px 30px;
+    line-height: 1.7rem;
+}
+.checkbox{
+   margin-top: 20px;
+   
+}
+.remember{
+    display: inline-block;
+    font-size: 18px;
+    font-family: system-ui;
+    font-weight: 200;
+    margin-top: 30px;
+}
+.login{
+    display: block;
+    margin-top: 30px;
+   
+    padding: 8px 50px;
+    margin-top: 40px;
+    border-radius: 5px;
+    border: 1px solid green;
+    color: white;
+    font-size: 17px;
+    cursor: pointer;
+    text-transform: uppercase;
+    background: rgb(60, 193, 122);
+}
+.two-poster{
+    padding-left: 220px;
+    position: relative;
+    
+}
+.poster-two{
+    position: relative;
+    right: -5px;
+    
+}
+.blooms{
+    color:white;
+    font-family: Sacramento; 
+    font-size: 100px;
+    text-transform: capitalize;
+    letter-spacing: 5px;
+    position: absolute;
+    top: 200px;
+    right: 520px;
+    z-index: 10;
+    font-weight:lighter;
+}
+.sub-foot{
+    padding-left: 7px;
+    background: grey;
+    cursor: pointer;
+    margin-bottom: 50px;
+}
+.insta{
+    font-family: Michroma ;
+    text-align: center;
+    margin-top: 70px;
+    font-weight: 500;
+    text-transform: uppercase;
+    font-size: 25px;
+    word-spacing: 9px;
+    margin-bottom: 30px;
+}
+.foot-first{
+    background-image: url("https://t4.ftcdn.net/jpg/03/15/26/99/360_F_315269981_Xzctp5pV9IA8uCpwEGViUYeXQIqaVnbt.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    margin:1px 200px;
+    padding: 50px;
+    margin-top:60px;
+}
+.question,.community{
+    font-family: Michroma;
+    font-weight:100;
+    font-size: 20px;
+    text-align: center;
+}
+.community-img{
+   margin-left:330px;
+   margin-top: 50px;   
+}
+.img-community{
+    margin: 0 20px;
+}
+.customer{
+   padding-left: 300px; 
+   margin-top: 150px;
+}
+.custom{
+    margin:0 130px;
+}
+.titlee{
+ padding-left: 295px;
+ margin-top: 10px;
+ 
+}
+.title{
+    font-family:cinzel;
+    font-size: 19px;
+    font-weight: 100;
+    display: inline-block;
+    margin:10px 65px; 
+   
+}
+.information{
+    padding-left:280px;
+    margin-top: 20px;
+    font-size: 18px;
+}
+.about{
+    font-family: Flamenco;
+    font-weight: 100;
+    display: inline-block;
+    text-align: center;
+    margin:0 20px;
+}
+.sec-foot{
+    background: #403d43;
+    color: rgb(189, 175, 175);
+    padding: 50px;
+    text-align: right;
+}
+.sec-foot h2{
+    font-family: Michroma;
+    font-size: 14px;
+    font-weight:bold;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    word-spacing: 4px;
+}
+.sec-foot p{
+    font-family: Flamenco;
+    font-size: 18px;
+    width: 250px;
+   line-height: 1.5rem;
+   text-align: right;
+}
+.foot-logo{
+    max-width: 30px;
+    margin:10px 7px;
+}
